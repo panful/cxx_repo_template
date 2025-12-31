@@ -1,0 +1,16 @@
+---
+BasedOnStyle: Google
+Language: Cpp
+
+UseTab: Never
+ColumnLimit: 120
+AllowShortBlocksOnASingleLine: Always
+AllowShortCaseLabelsOnASingleLine: true
+AlignConsecutiveAssignments: true
+BinPackParameters: false
+BinPackArguments: false
+BreakInheritanceList: BeforeComma
+BreakConstructorInitializers: BeforeComma
+PackConstructorInitializers: Never
+SpaceBeforeCpp11BracedList: true
+AlignArrayOfStructures: Left

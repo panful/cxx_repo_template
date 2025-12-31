@@ -1,0 +1,9 @@
+{
+  "clangd.arguments": [
+    "--clang-tidy",
+    "--log=info",
+    "--background-index",
+    "--limit-results=99",
+    "--compile-commands-dir=${workspaceFolder}/build/msvc-debug"
+  ]
+}

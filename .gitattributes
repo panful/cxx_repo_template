@@ -1,0 +1,35 @@
+* text=auto eol=lf working-tree-encoding=UTF-8
+
+# ---- C/C++ ----
+*.c     text eol=lf working-tree-encoding=UTF-8
+*.cpp   text eol=lf working-tree-encoding=UTF-8
+*.h     text eol=lf working-tree-encoding=UTF-8
+*.hpp   text eol=lf working-tree-encoding=UTF-8
+*.inl   text eol=lf working-tree-encoding=UTF-8
+
+*.cmake text eol=lf working-tree-encoding=UTF-8
+CMakeLists.txt text eol=lf working-tree-encoding=UTF-8
+
+# ---- Scripts ----
+*.sh    text eol=lf working-tree-encoding=UTF-8
+*.py    text eol=lf working-tree-encoding=UTF-8
+
+# Windows scripts
+*.bat   text eol=crlf working-tree-encoding=UTF-8
+*.cmd   text eol=crlf working-tree-encoding=UTF-8
+
+# ---- Config & data ----
+*.json  text eol=lf working-tree-encoding=UTF-8
+*.yml   text eol=lf working-tree-encoding=UTF-8
+*.yaml  text eol=lf working-tree-encoding=UTF-8
+*.toml  text eol=lf working-tree-encoding=UTF-8
+*.ini   text eol=lf working-tree-encoding=UTF-8
+*.txt   text eol=lf working-tree-encoding=UTF-8
+
+# ---- Binary ----
+*.png   binary
+*.jpg   binary
+*.exe   binary
+*.dll   binary
+*.lib   binary
+*.a     binary
